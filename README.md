@@ -1,2 +1,4 @@
 # hello-world
-Just for fun
+
+I am made of fermented grains
+But I am not beer
